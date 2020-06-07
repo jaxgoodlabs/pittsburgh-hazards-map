@@ -1,5 +1,6 @@
 # Resilience-Oriented Planning Map
 #### Authors: Patrick Campbell, Kensuke Onishi, Adhiraj Shekhawat, Haoran Yan, Shule Chen, Chanté Solomon
+#### May 17, 2020
 
 ## I.	 Introduction
 
