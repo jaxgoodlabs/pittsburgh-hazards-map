@@ -88,4 +88,4 @@ Also included in the map are feature layers useful for scoping suitable sites fo
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83976913-1a391f00-a8cb-11ea-8a37-9df43d10b812.JPG">
 </p>
 
-View the full report [here]().
+View the full report [here](https://jaxgoodlabs.github.io/pittsburgh-hazards-map/Final%20Report.pdf).
