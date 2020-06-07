@@ -22,8 +22,11 @@ Through their work with partner institutions, the City of Pittsburgh’s Sustain
 *1.2 Context and Problem Statement*
 
 The City of Pittsburgh would like to better anticipate and respond to the impacts of climate change on public facilities and the communities they serve. Such information is essential for ensuring that this critical infrastructure remains open and operational even as many climate-related hazards become more frequent and intense. The City intends to use this fine-grained information about the exposure of each of their buildings to various hazards to make sure that each building receives the right retrofits at the right time to mitigate financial losses and prevent closures and/or suspension of public services.
+
 Given the context provided above, the team formulated the following problem statement to guide its efforts:
-Problem statement: How should the City allocate funding to the maintenance and renovation of its building stock in order to maximize resilience value to the community while minimizing long-term costs?
+
+> Problem statement: *How should the City allocate funding to the maintenance and renovation of its building stock in order to maximize resilience value to the community while minimizing long-term costs?*
+
 (For the purposes of this project, the term ”building stock” will be constrained to the city’s Healthy Active Living Centers. See the scope section below for more details.)
 
 *1.3 Scope*
